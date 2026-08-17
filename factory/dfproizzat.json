@@ -1,0 +1,15 @@
+{
+	"name": "dfproizzat",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30661acd-7327-4f47-9b5c-4f0dac21d48b",
+		"tenantId": "dd5228ed-2a70-4d69-8c60-e95d6dbf9bd1"
+	}
+}
